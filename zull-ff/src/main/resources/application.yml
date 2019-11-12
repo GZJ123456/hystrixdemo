@@ -1,0 +1,8 @@
+server:
+  port: 8999
+
+zuul:
+  routes:
+    demo:
+      path: /demo01/**
+      url: http://localhost:8080/a

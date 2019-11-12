@@ -1,0 +1,7 @@
+server:
+  port: 1258
+
+spring:
+  application:
+    name: losss
+
